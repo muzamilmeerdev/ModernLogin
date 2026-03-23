@@ -3,11 +3,10 @@ In this tutorial (Open in Youtube), I'm going to show you how to use modern HTML
 
 <h1>Screenshot</h1>
 Here we have project screenshort
-![screenshot](https://github.com/user-attachments/assets/9f363d25-cab0-475c-98d6-52c5a399fc81)
 
 
 
-
+![screenshot](https://github.com/user-attachments/assets/1816df62-2c8a-4528-b73e-e166ef636dcc)
 
 
 <h1>muzamilmeerdev</h1>
