@@ -2,9 +2,11 @@
 In this tutorial (Open in Youtube), I'm going to show you how to use modern HTML, CSS, and JavaScript to create a complete Login Page Design with Login and Sign up animations. We'll be using CSS Flexbox, CSS transition for some cool animation effects and also CSS keyframes!
 
 <h1>Screenshot</h1>
-Here we have project screenshot :
+Here we have project screenshort
+![screenshot](https://github.com/user-attachments/assets/9f363d25-cab0-475c-98d6-52c5a399fc81)
 
-(https://github.com/user-attachments/assets/c40db6a3-8b4f-4750-9e72-247902d5e0cd)
+
+
 
 
 
